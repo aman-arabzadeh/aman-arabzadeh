@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://amanarab.netlify.app/projects](https://amanarab.netlify.app/projects)
 
-- 📫 How to reach me **aman.arabzadeh98@gmail.com**
-
 - 📄 Know about my experiences [https://amanarab.netlify.app/](https://amanarab.netlify.app/)
 
 - ⚡ Fun fact **By the age of 15, I had earned a black belt in Kung Fu, and I've reached an advanced level in Ashtanga yoga.**
