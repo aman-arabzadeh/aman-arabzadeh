@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://amanarab.netlify.app/](https://amanarab.netlify.app/)
 
 - ⚡ Fun fact **By the age of 15, I had earned a black belt in Kung Fu, and I've reached an advanced level in Ashtanga yoga.**
+![snake svg](https://github.com/AMAN-ARABZADEH/AMAN-ARABZADEH/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
