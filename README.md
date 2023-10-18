@@ -5,7 +5,7 @@
     </a>
 </p>
 
-<h3 align="left" style="color: #30A7DCFF;">I'm a final-year computer engineering student from Sweden with a passion for exploring cutting-edge technologies.</h3>
+<h3 align="left" >I'm a final-year computer engineering student from Sweden with a passion for exploring cutting-edge technologies.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-arabzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="aman-arabzadeh" /> </p>
