@@ -1,7 +1,11 @@
 [![MasterHead](https://github.com/AMAN-ARABZADEH/Assets/blob/main/Banner.png)](https://github.com/AMAN-ARABZADEH)
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=30A7DC&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Arabzadeh." alt="Typing SVG" />
+    </a>
+</p>
 
-<h1 align="center">Hi 👋, I'm Aman Arabzadeh.</h1>
-<h3 align="center">I'm a final-year computer engineering student from Sweden with a passion for exploring cutting-edge technologies.</h3>
+<h3 align="left">I'm a final-year computer engineering student from Sweden with a passion for exploring cutting-edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-arabzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="aman-arabzadeh" /> </p>
 
