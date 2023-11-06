@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/amannealarab7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amannealarab7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-arabzadeh-8a085513a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Arabzadeh LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aman_neal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_neal" height="30" width="40" /></a>
+
 </p>
 
 
