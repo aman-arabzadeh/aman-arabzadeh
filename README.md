@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/AMAN-ARABZADEH/Assets/blob/main/Banner.png)](https://github.com/AMAN-ARABZADEH)
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=30A7DC&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Arabzadeh." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=30A7DC&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman" alt="Typing SVG" />
     </a>
 </p>
 
