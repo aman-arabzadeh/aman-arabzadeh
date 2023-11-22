@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=30A7DC&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman" alt="Typing SVG" />
     </a>
 </p>
-
+ 
 
 <h3 align="left" >I'm a final-year computer engineering student from Sweden with a passion for exploring cutting-edge technologies.</h3>
 
