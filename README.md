@@ -15,7 +15,7 @@
 - 🤝 I’m looking for help with **Front-End, Back-end, Arduino, Raspberry PI, NFC,**
 
 - 👨‍💻 All of my projects are available at [https://korayamanaslan.netlify.app/projects](https://korayamanaslan.netlify.app/projects)
-- 
+
 - 📄 Know about my experiences [https://korayamanaslan.netlify.app/](https://korayamanaslan.netlify.app/)
 
 - ⚡ Fun fact **By the age of 15, I had earned a black belt in Kung Fu, and I've reached an advanced level in Ashtanga yoga.**
