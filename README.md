@@ -1,9 +1,5 @@
 [![MasterHead](https://github.com/AMAN-ARABZADEH/Assets/blob/main/Banner.png)](https://github.com/AMAN-ARABZADEH)
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=30A7DC&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman" alt="Typing SVG" />
-    </a>
-</p>
+
  
 <h1 align="center">Hi 👋, I'm Koray Aman Aslan</h1>
 <h3 align="center">I'm a final-year computer engineering student from Sweden with a passion for exploring cutting-edge technologies.</h3>
@@ -18,11 +14,9 @@
 
 - 🤝 I’m looking for help with **Front-End, Back-end, Arduino, Raspberry PI, NFC,**
 
-- 👨‍💻 All of my projects are available at [https://amanarab.netlify.app/projects](https://amanarab.netlify.app/projects)
-
-- 📫 How to reach me **aman.arabzadeh98@gmail.com**
-
-- 📄 Know about my experiences [https://amanarab.netlify.app/](https://amanarab.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://korayamanaslan.netlify.app/projects](https://korayamanaslan.netlify.app/projects)
+- 
+- 📄 Know about my experiences [https://korayamanaslan.netlify.app/](https://korayamanaslan.netlify.app/)
 
 - ⚡ Fun fact **By the age of 15, I had earned a black belt in Kung Fu, and I've reached an advanced level in Ashtanga yoga.**
 
