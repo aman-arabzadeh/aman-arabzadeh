@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/amannealarab7" target="blank"><img src="https://img.shields.io/twitter/follow/amannealarab7?logo=twitter&style=for-the-badge" alt="amannealarab7" /></a> </p>
 
-- 🌱 I’m currently learning **CNN, Security,**
+- 🌱 I’m currently learning **Convolutional Neural Network (CNN), Security,**
 
 - 👨‍💻 Some of my projects are available at [https://korayamanaslan.netlify.app/projects](https://korayamanaslan.netlify.app/projects)
 
