@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/AMAN-ARABZADEH/Assets/blob/main/Banner.png)](https://github.com/AMAN-ARABZADEH)
 
  
-<h1 align="center">Hi 👋, I'm Koray Aman Aslan</h1>
+<h1 align="center">Hi 👋, I'm Koray Aman Arabzadeh</h1>
 <h3 align="center">I'm a final-year computer engineering student with a passion for exploring cutting-edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koray-aman-aslan&label=Profile%20views&color=0e75b6&style=flat" alt="koray-aman-aslan" /> </p>
