@@ -10,7 +10,12 @@
 
 <p align="left"> <a href="https://twitter.com/amannealarab7" target="blank"><img src="https://img.shields.io/twitter/follow/amannealarab7?logo=twitter&style=for-the-badge" alt="amannealarab7" /></a> </p>
 
-- 🌱 I’m currently learning **Convolutional Neural Network (CNN), Security,**
+## Currently Learning 🌱
+
+- **Convolutional Neural Networks (CNN)**: Delving into the world of computer vision.
+- **Computer Vision Algorithms**: Exploring the algorithms that enable machines to see.
+- **Software Security**: Studying how to protect software from threats.
+
 
 - 👨‍💻 Some of my projects are available at [https://korayamanaslan.netlify.app/projects](https://korayamanaslan.netlify.app/projects)
 
