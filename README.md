@@ -2,7 +2,6 @@
 
  
 <h1 align="center">Hi 👋, I'm Koray Aman Arabzadeh</h1>
-<h3 align="center">I'm a final-year computer engineering student with a passion for exploring cutting-edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koray-aman-aslan&label=Profile%20views&color=0e75b6&style=flat" alt="koray-aman-aslan" /> </p>
 
@@ -12,16 +11,8 @@
 
 ## Currently Learning 🌱
 
-- **Convolutional Neural Networks (CNN)**: Delving into the world of computer vision.
-- **Computer Vision Algorithms**: Exploring the algorithms that enable machines to see.
-- **Software Security**: Studying how to protect software from threats.
-
-## Some More things..
-- 👨‍💻 Some of my projects are available at [https://korayamanaslan.netlify.app/projects](https://korayamanaslan.netlify.app/projects)
-
-- 📄 Know about me [https://korayamanaslan.netlify.app/](https://korayamanaslan.netlify.app/)
-
-- ⚡ Fun fact **By the age of 15, I had earned a black belt in Kung Fu, and I've reached an advanced level in Ashtanga yoga.**
+- **Computer Vision Algorithms**
+- **Metaprogramming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
