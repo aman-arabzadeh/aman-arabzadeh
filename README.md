@@ -12,7 +12,7 @@
 ## Currently Learning 🌱
 
 - **Computer Vision Algorithms**
-- **MAchine Learning**
+- **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
