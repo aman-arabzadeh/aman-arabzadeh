@@ -12,6 +12,7 @@
 ## Currently Learning 🌱
 
 - **Computer Vision Algorithms**
+- **Image Analysis Ana ML**
 - **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
