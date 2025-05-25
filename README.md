@@ -11,7 +11,7 @@
 
 ### 💬 About Me
 
-- 🧩 Full-stack engineer working with Java,Jakarta EE, Spring Boot, Angular, Vue, Python, and C++
+- 🧩 Full-stack engineer experienced in Java, Jakarta EE, Spring Boot, Angular, Vue, Python, and C++
 - 🚀 Focused on scalable systems, clean architecture, and developer productivity
 - 🧠 Believer in learning-by-doing, mentoring, and open source contribution
 
