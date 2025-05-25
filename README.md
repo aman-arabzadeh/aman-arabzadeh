@@ -20,7 +20,7 @@
 
 ### 🛠 Tech Stack
 
-**Languages & Frameworks**  
+**💻 Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-ED8B00?style=for-the-badge&logo=jakartaee)
@@ -32,7 +32,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
 
-### 🛠️ DevOps & Tools
+**🧰 DevOps & Tools **
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty)
@@ -48,7 +48,7 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic)
 ![Kanban](https://img.shields.io/badge/Kanban-F4A261?style=for-the-badge&logo=trello)
 
-### 🧪 Testing & Build Tools
+**🧪 Testing & Build Tools**
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java)
 ![Mockito](https://img.shields.io/badge/Mockito-FF6F00?style=for-the-badge&logo=java)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
