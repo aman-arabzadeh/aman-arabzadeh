@@ -15,6 +15,7 @@
 - 🚀 Focused on scalable systems, clean architecture, and developer productivity
 - 🧠 Believer in learning-by-doing, mentoring, and open source contribution
 
+
 ---
 
 ### 🛠 Tech Stack
@@ -45,6 +46,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic)
+![Kanban](https://img.shields.io/badge/Kanban-F4A261?style=for-the-badge&logo=trello)
 
 ### 🧪 Testing & Build Tools
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java)
