@@ -32,7 +32,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
 
-**🧰 DevOps & Tools **
+**🧰 DevOps & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty)
