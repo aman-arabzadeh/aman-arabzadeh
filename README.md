@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/AMAN-ARABZADEH/Assets/blob/main/Banner.png)](https://github.com/AMAN-ARABZADEH)
 
-<h1 align="center">Hi 👋, I'm Aman — Full-stack Developer from Stockholm, Sweden</h1>
+<h1 align="center">Hi 👋, I'm Aman — Systems Engineer  from Stockholm, Sweden</h1>
 <h3 align="center">Building clean, scalable software — front to back</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 💬 About Me
 
-- 🧩 Full-stack engineer experienced in Java, Jakarta EE, Spring Boot, Angular, Vue, Python, and C++
+- 🧩 System Engineer experienced in Java, Jakarta EE, Spring Boot, Angular, Vue, Python, and C++
 - 🚀 Focused on scalable systems, clean architecture, and developer productivity
 - 🧠 Believer in learning-by-doing, mentoring, and open source contribution
 
