@@ -87,5 +87,5 @@
 
 - 📚 I read tech blogs daily — it's my fuel
 - 🎯 Currently learning Kafka and Kubernetes
-- ✍️ Just published a free guide for devs:
+- ✍️ Just finished my free guidebook for devs:
   - 📘 **[Terminal Toolkit for Linux](https://github.com/aman-arabzadeh/terminal-toolkit/blob/main/main.pdf)** 
