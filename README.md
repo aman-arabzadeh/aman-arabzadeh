@@ -77,6 +77,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-arabzadeh" alt="GitHub Streak" />
 </p>
 
+### 📈 Top Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-arabzadeh&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
+</p>
+
+
 ---
 
 ### 🌍 Connect with Me
