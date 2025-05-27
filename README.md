@@ -97,3 +97,5 @@
 **Bachelor of Science in Computer Engineering (Datateknik)**  
 *Mid Sweden University (Mittuniversitetet)*  
 📍 Sundsvall, Sweden — Graduated 2024
+
+![Mid Sweden University](https://img.shields.io/badge/Mid%20Sweden%20University-DarkBlue?style=for-the-badge)
