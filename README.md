@@ -71,18 +71,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center" style="width:100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-arabzadeh&show_icons=true&theme=default" alt="GitHub Stats" style="width:100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-arabzadeh&show_icons=true&theme=default" alt="GitHub Stats" width="75%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-arabzadeh" alt="GitHub Streak" style="width:100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-arabzadeh" alt="GitHub Streak" width="75%" />
 </p>
 
 ### 📈 Top Languages Used
 
-<p align="center" style="width:100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-arabzadeh&layout=compact&langs_count=8&theme=default" alt="Top Languages" style="width:100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-arabzadeh&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="75%" />
 </p>
-
 
 ---
 
