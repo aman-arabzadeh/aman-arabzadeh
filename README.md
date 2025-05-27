@@ -49,6 +49,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic)
 ![Kanban](https://img.shields.io/badge/Kanban-F4A261?style=for-the-badge&logo=trello)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 **🧪 Testing & Build Tools**
 
