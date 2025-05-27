@@ -11,18 +11,18 @@
 
 ---
 
-### 💬 About Me
+### About Me
 
-- 🧩 System Engineer experienced in Java, Jakarta EE, Spring Boot, Angular, Vue, Python, and C++
-- 🚀 Focused on scalable systems, clean architecture, and developer productivity
-- 🧠 Believer in learning-by-doing, mentoring, and open source contribution
+- System Engineer experienced in Java, Jakarta EE, Spring Boot, Angular, Vue, Python, and C++
+- Focused on scalable systems, clean architecture, and developer productivity
+- Believer in learning-by-doing, mentoring, and open source contribution
 
 
 ---
 
 ### 🛠 Tech Stack
 
-**💻 Languages & Frameworks**  
+**Languages & Frameworks**  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
@@ -35,7 +35,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
 
-**🧰 DevOps & Tools**
+**DevOps & Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -53,7 +53,7 @@
 ![Kanban](https://img.shields.io/badge/Kanban-F4A261?style=for-the-badge&logo=trello)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-**🧪 Testing & Build Tools**
+**Testing & Build Tools**
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java)
 ![Mockito](https://img.shields.io/badge/Mockito-FF6F00?style=for-the-badge&logo=java)
@@ -69,18 +69,12 @@
 
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aman-arabzadeh&show_icons=true&theme=default" alt="GitHub Stats" width="75%" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-arabzadeh" alt="GitHub Streak" width="75%" />
-</p>
-
-### 📈 Top Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-arabzadeh&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="75%" />
 </p>
 
 ---
@@ -92,12 +86,11 @@
 
 ---
 
-### ⚡ Fun Facts
+### Facts
 
-- 📚 I read tech blogs daily — it's my fuel
-- 🎯 Currently learning Kafka, Kubernetes & AWS
-- ✍️ Just finished my free guidebook for devs:
-  - 📘 **[Terminal Toolkit for Linux](https://github.com/aman-arabzadeh/terminal-toolkit/blob/main/main.pdf)**
+- Currently learning Kafka, Kubernetes & AWS
+-  Just finished my free guidebook for devs:
+  - **[Terminal Toolkit for Linux](https://github.com/aman-arabzadeh/terminal-toolkit/blob/main/main.pdf)**
   
 
 ### 🎓 Education
