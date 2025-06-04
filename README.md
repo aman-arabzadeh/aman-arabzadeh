@@ -88,8 +88,8 @@
 
 ### Facts
 
-- Currently learning Kafka, Kubernetes & AWS
--  Just finished my free guidebook for devs:
+- Currently learning **Kafka**, **Kubernetes**, and **AWS**.
+- Just finished my free guidebook for devs:
   - **[Terminal Toolkit for Linux](https://github.com/aman-arabzadeh/terminal-toolkit/blob/main/main.pdf)**
   
 
