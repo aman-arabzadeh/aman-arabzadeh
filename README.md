@@ -9,7 +9,7 @@
 </p>
 
 
-### Facts
+### Learning
 
 - Currently learning **Kafka**, **Kubernetes**, and **AWS**.
 
