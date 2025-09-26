@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/AMAN-ARABZADEH/Assets/blob/main/Banner.png)](https://github.com/AMAN-ARABZADEH)
 
 <h1 align="center">Hi , I'm Aman from Stockholm, Sweden</h1>
-<h3 align="center"> System Developer  Passionate about Technology & Innovation</h3>
+<h3 align="center"> Passionate about Technology & Innovation</h3>
 
 
 <p align="center">
