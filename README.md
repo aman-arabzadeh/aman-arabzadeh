@@ -8,14 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=aman-arabzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-
-### 🌍 Connect with Me
-
-- [💼 LinkedIn](https://www.linkedin.com/in/aman-arabzadeh-8a085513a)
-- [👨‍💻 GitHub](https://github.com/aman-arabzadeh)
-
----
 
 ### Facts
 
