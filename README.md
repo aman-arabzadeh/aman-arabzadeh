@@ -2,7 +2,8 @@
 
 <h1 align="center">Aman — Stockholm, Sweden</h1>
 <h3 align="center">Backend-leaning Full-stack Developer</h3>
---
+
+---
 
 **Tech:** Java · Python · C++ · Jakarta EE (JPA/Hibernate) · REST/SOAP · Angular · Elasticsearch · Jenkins · Git · Linux · Oracle · MySQL  
 **Learning:** Kubernetes · Kafka · AWS  
