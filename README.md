@@ -1,7 +1,12 @@
 [![MasterHead](https://github.com/AMAN-ARABZADEH/Assets/blob/main/Banner.png)](https://github.com/AMAN-ARABZADEH)
 
-<h1 align="center">Hi , I'm Aman from Stockholm, Sweden</h1>
-<h3 align="center"> Passionate about Technology & Innovation</h3>
+<h1 align="center">Aman — Stockholm, Sweden</h1>
+<h3 align="center">Backend-leaning Full-stack Developer</h3>
+--
+
+**Tech:** Java · Python · C++ · Jakarta EE (JPA/Hibernate) · REST/SOAP · Angular · Elasticsearch · Jenkins · Git · Linux · Oracle · MySQL  
+**Learning:** Kubernetes · Kafka · AWS  
+**Open to:** open-source contributions & backend roles
 
 ---
 
@@ -10,15 +15,3 @@
 </p>
 
 ---
-
-```java
-       while(true){
-           java.awt.Desktop.getDesktop().browse(URI.create("https://github.com/aman-arabzadeh"));
-       }
-```
----
-
-### Learning
-
-- Currently learning **Kafka**, **Kubernetes**, and **AWS**.
-
