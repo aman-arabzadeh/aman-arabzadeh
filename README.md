@@ -5,7 +5,7 @@
 
 ---
 
-**Tech:** Java · Python · C++ · Jakarta EE (JPA/Hibernate) · REST/SOAP · Angular · Elasticsearch · Jenkins · Git · Linux · Oracle · MySQL  
+**Tech:** Java · Python · C++ · Jakarta EE . Spring Boot · REST/SOAP/GraphQL · Angular · Elasticsearch · Jenkins · Git · Linux · MySQL. SQL
 **Learning:** Kubernetes · Kafka · AWS  
 **Open to:** open-source contributions & backend roles
 
