@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AMAN-ARABZADEH/Assets/blob/main/Banner.png)](https://github.com/AMAN-ARABZADEH)
+
 
 <h1 align="center">Aman — Stockholm, Sweden</h1>
 <h3 align="center">Backend-leaning Full-stack Developer</h3>
