@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Aman — Stockholm, Sweden</h1>
-<h3 align="center">Backend-leaning Full-stack Developer</h3>
+<h3 align="center">SW Developer</h3>
 
 ---
 
